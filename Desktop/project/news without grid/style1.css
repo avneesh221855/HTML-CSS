@@ -101,25 +101,13 @@ body{background-color: #F3EEEE;
 				display: inline-block;
 			}
 
-			.content {
-				display: none;
-				position: absolute;
-				background-color: #B89B9B;
-				min-width: 160px;
-				box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-				z-index: 1;
-			}
-
+			
 			
 
-			.content a:hover {background-color: #B89B9B}
-
-			.dropdown:hover content {
-				display: block;
-			}
+			
 
 			.dropdown:hover .dropbtn {
 				background-color: #3e8e41;
 			}
 
-			.
+			
